@@ -3,3 +3,4 @@ title: "Zone d'étude"
 ---
 
 Base ADHI en Afrique de l'ouest
+![Zone d'étude](site_libs/images/carte_de_localisation_base_adhi.jpg)
