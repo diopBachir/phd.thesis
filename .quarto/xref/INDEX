@@ -1,0 +1,50 @@
+{
+  "index.qmd": {
+    "index.html": "5a89c7c6"
+  },
+  "about.qmd": {
+    "about.html": "bd292bbd"
+  },
+  "bassinSelection.qmd": {
+    "bassinSelection.html": "f0ea3f65"
+  },
+  "dataInventory.qmd": {
+    "dataInventory.html": "54ff4998"
+  },
+  "introductionRFA.qmd": {
+    "introductionRFA.html": "13477bfd"
+  },
+  "localFFA.qmd": {
+    "localFFA.html": "608b0016"
+  },
+  "localFFAetapes.qmd": {
+    "localFFAetapes.html": "444b178c"
+  },
+  "localFFAevaluationCritera.qmd": {
+    "localFFAevaluationCritera.html": "de031e78"
+  },
+  "localFFAhypothesisTests.qmd": {
+    "localFFAhypothesisTests.html": "14893485"
+  },
+  "localFFAintroduction.qmd": {
+    "localFFAintroduction.html": "cb90e15f"
+  },
+  "localFFAnon_stationary.qmd": {
+    "localFFAnon_stationary.html": "42e90b26"
+  },
+  "localFFAusedModels.qmd": {
+    "localFFAusedModels.html": "2059abdb"
+  },
+  "references.qmd": {
+    "references.html": "9a8748df"
+  },
+  "regional_ffa.qmd": {
+    "regional_ffa.html": "801b9228"
+  },
+  "studyArea.qmd": {
+    "studyArea.html": "2ef02538"
+  },
+  "thesisDataSource.qmd": {
+    "thesisDataSource.html": "09b5c8ef"
+  }
+}
