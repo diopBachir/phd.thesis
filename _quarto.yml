@@ -4,9 +4,9 @@ project:
 
 website:
   title: "THESE SERIGNE BASSIROU DIOP"
-  favicon: "docs/assets/carte_de_localisation_base_adhi.jpg"
+  favicon: "assets/carte_de_localisation_base_adhi.jpg"
   navbar:     
-    logo: "docs/assets/carte_de_localisation_base_adhi.jpg"                                                       # text alternatif logo
+    logo: "assets/carte_de_localisation_base_adhi.jpg"                                                       # text alternatif logo
     background: "dark"                                                         # couleur de fond
     foreground: "white"                                                       # couleur du texte
     search: false                                                                # barre de recherche
@@ -24,7 +24,7 @@ website:
       - icon: whatsapp
         href: https://wa.me/221770129624
   sidebar:
-    logo: "docs/assets/carte_de_localisation_base_adhi.jpg"
+    logo: "assets/carte_de_localisation_base_adhi.jpg"
     logo-alt: "" 
     contents:
       - section: "Régionalisation des crues en Afrique de l'ouest"
